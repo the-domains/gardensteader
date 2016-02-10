@@ -1,6 +1,6 @@
 name: Gardensteader
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.58645
 title: Gardensteader - Urban Homesteading / Micro Farming
 cta:
@@ -24,6 +24,6 @@ color:
     - '#557d03'
   brandStrength: 0
   lightness: 0.625
-  saturation: 0
+  saturation: 0.0625
   rhythmicContrast: 0
 purpose: []
