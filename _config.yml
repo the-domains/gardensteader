@@ -1,8 +1,7 @@
 name: Gardensteader
 favicon: null
 layout_spectrum: 0.9759594015777111
-typography_spectrum: 0.58645
-title: Gardensteader - Micro Farming Meets Urban Homesteading
+typography_spectrum: 0.6006082978565246
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#38333a'
-    - '#fffffd'
-    - '#d6dbb2'
-    - '#a0a774'
-    - '#557d03'
-  brandStrength: 0.0625
-  lightness: 0.6875
-  saturation: 0.25
-  rhythmicContrast: 0.75
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.05778424860909581
+  lightness: 0.7945859038736671
+  saturation: 0.21057985164225101
+  rhythmicContrast: 0.9907222799956799
 purpose: []
