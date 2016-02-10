@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Gardensteader - Micro Farming Meets Urban Homesteading]]></title>
-        <description><![CDATA[Gardensteader - Micro Farming Meets Urban Homesteading]]></description>
+        <title><![CDATA[Gardensteader - Urban Homesteading / Micro Farming]]></title>
+        <description><![CDATA[Gardensteader - Urban Homesteading / Micro Farming]]></description>
         <link>https://thegrid.ai/gardensteader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 17:30:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 21:52:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gardensteader/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Micro Farming meets Urban Homesteading. Agenda free exploration of gardening, micro farming & homesteading techniques, sharing tips, tricks & experiences.</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/94fa7510-16a3-4568-9f13-2064c2ee6e8e.jpg">]]></description>
             <link>https://thegrid.ai/gardensteader/e8d6e0e4-dafa-4429-9204-5ce541abe4b7/index.html</link>
             <guid isPermaLink="false">e8d6e0e4-dafa-4429-9204-5ce541abe4b7</guid>
-            <pubDate>Wed, 10 Feb 2016 17:30:02 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 21:52:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
